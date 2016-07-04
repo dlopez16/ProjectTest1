@@ -1,0 +1,153 @@
+body{
+
+	background-color: #006064;
+
+}
+
+h1{
+
+	color: white;
+}
+
+
+
+
+
+
+
+label{
+	margin-left: 35%;
+}
+
+
+select{
+	margin-left: 35%;
+}
+
+
+button{
+	margin-left: 50%;
+}
+
+
+
+#pilot{
+margin-bottom: 50%;
+
+
+}
+#pilot2{
+	margin-bottom: 50%;
+}
+
+.advance{
+	margin-left: 47%;
+}
+
+
+
+
+.browser-default{
+	width: 20%;
+}
+
+
+
+.intro-body{
+	margin-bottom: 50%;
+    margin-top: 20%;
+    text-align: center;
+	
+}
+
+
+
+    
+
+.captain{
+	background-color: transparent;
+	border:solid transparent;
+
+}
+
+.flag{
+
+  width: 100px ;
+ 
+}
+
+
+
+input[type=text] {
+    width: 170px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    margin-top:3px;
+    padding: 15px 15px 17px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin-left: 35%;
+}
+
+
+
+.pirate{
+	border: solid white 1px;
+	margin-top: 56px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color:  ;
+	height: 140px;
+	padding-left:10%;
+	 width: 500px;
+        clear: both;
+
+}
+
+.pirate2{
+	
+	
+border: solid white 1px;
+	margin-top: 56px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color:  ;
+	height: 140px;
+	padding-left:10%;
+	 width: 500px;
+        clear: both;
+}
+
+
+
+
+label{
+	font-size: 15px;
+	color: black;
+	margin-left: 35%;
+}
+
+
+
+.parallax{
+	background-color: black;
+}
+
+footer{
+
+}
+
+.fighter{
+margin-top:30%;
+margin-bottom:50%;
+
+}
+
+
+
